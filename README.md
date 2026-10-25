@@ -4,7 +4,7 @@ My solutions to practice problems on [NeetCode.io](https://neetcode.io), committ
 
 ## Contents
 
-The repository holds two Python solutions from the Python Coding Interviews course:
+The repository holds two Python solutions, both in the `Python Coding Interviews` folder:
 
 | Problem | File | What it does |
 | --- | --- | --- |
@@ -38,8 +38,8 @@ NeetCode's GitHub Sync commits a file here when a solution is submitted on neetc
 
 ## Status
 
-A practice log, not a library. It changes only when a solution is submitted on NeetCode; the last sync was in June 2026.
+A practice log, not a library. Solutions arrive only through NeetCode's sync; the newest one is from June 2026.
 
 ## License
 
-The solution code is under the [MIT License](LICENSE). Problem statements and the starter code in each file, including the test calls under `# do not modify below this line`, come from NeetCode.io.
+The solution code is under the [MIT License](LICENSE). The files hold no problem statements. The starter code in each file, including the test calls under `# do not modify below this line`, comes from NeetCode.io.
